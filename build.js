@@ -1,6 +1,5 @@
 const fs = require('fs')
 const { JSDOM } = require('jsdom')
-const { forEach } = require('lodash')
 
 const template = fs.readFileSync('template.html', 'utf8')
 const resourceData = JSON.parse(fs.readFileSync('resources.json', 'utf8'))

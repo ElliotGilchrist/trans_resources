@@ -10,7 +10,6 @@
   },
   "author": "Elliot Gilchrist",
   "dependencies": {
-    "jsdom": "^16.2.2",
-    "lodash": "^4.17.15"
+    "jsdom": "^16.2.2"
   }
 }
