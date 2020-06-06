@@ -1,0 +1,62 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #55CDFC;
+    color: black;
+    margin: 0;
+}
+
+#title {
+    font-size: 500%;
+    text-align: center;
+}
+
+#resources {
+
+}
+
+#footer {
+    text-align: center;
+    padding: 1em;
+    max-width: 40em;
+}
+
+.group {
+    background-color: #F7A8B8;
+    border-radius: 5px;
+    padding: 2em 2em 1px 2em;
+    margin-bottom: 3em;
+    box-shadow: 10px 10px 15px #00000055;
+    max-width: 40em;
+}
+
+.group-title {
+    font-size: 225%;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.item-link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.item {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin-bottom: 3em;
+    padding: 10px;
+    box-shadow: 10px 10px 10px #00000055;
+}
+
+.item-title {
+    font-size: 150%;
+}
+
+.item-description {
+
+}

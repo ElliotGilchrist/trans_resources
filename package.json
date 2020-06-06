@@ -1,0 +1,16 @@
+{
+  "name": "trans_resources",
+  "description": "Resources for trans and questioning folx",
+  "scripts": {
+    "build": "nodejs build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElliotGilchrist/trans_resources.git"
+  },
+  "author": "Elliot Gilchrist",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "lodash": "^4.17.15"
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "groups": [
+        {
+            "title": "Medical Info",
+            "items": [
+                {
+                    "title": "Dr. Powers Trans Care Powerpoint v6.0",
+                    "link": "https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx",
+                    "description": "Dr. Powers is a doctor who specializes in trans care and has developed his own methodology for care"
+                },
+                {
+                    "title": "Dr. Powers Transgender care presentation",
+                    "link": "https://www.youtube.com/watch?v=fefu33e8O-0",
+                    "description": "While this presentation is aimed at providers, not patients, there's still lots of good info in here"
+                }
+            ]
+        },
+        {
+            "title": "Getting Care",
+            "items": [
+                {
+                    "title": "Informed Consent Map",
+                    "link": "https://www.google.com/maps/d/u/0/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&ll=42.47025816653199%2C-97.03854516744877&z=4",
+                    "description": "Map of locations in the US which provide informed consent access to HRT"
+                },
+                {
+                    "title": "Transcend Legal Resources",
+                    "link": "https://transcendlegal.org/resources",
+                    "description": "Excellent guides for getting your insurance to cover your care and for changing your documents"
+                },
+                {
+                    "title": "Transgender Law Center",
+                    "link": "https://transgenderlawcenter.org/",
+                    "description": "National trans-let organization. Lots of programs and resources here"
+                }
+            ]
+        },
+        {
+            "title": "Survival",
+            "items": [
+                {
+                    "title": "Refuge Restrooms",
+                    "link": "https://www.refugerestrooms.org/",
+                    "description": "App and website to that lets you find and share the locations of gender neutral bathrooms"
+                },
+                {
+                    "title": "PFLAG",
+                    "link": "https://pflag.org/",
+                    "description": "Helps to educate families of LGBTQ folx, and holds family support groups"
+                },
+                {
+                    "title": "The Trevor Project",
+                    "link": "https://www.thetrevorproject.org/",
+                    "description": "LGBTQ crisis hotline"
+                }
+            ]
+        },
+        {
+            "title": "Questioning & Convincing",
+            "items": [
+                {
+                    "title": "The Null HypotheCis",
+                    "link": "https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/",
+                    "description": "Article by Natalie Reed"
+                },
+                {
+                    "title": "\"That was dysphoria?\" 8 signs and symptoms of indirect gender dysphoria",
+                    "link": "https://the-orbit.net/zinniajones/2013/09/that-was-dysphoria-8-signs-and-symptoms-of-indirect-gender-dysphoria/",
+                    "description": "Article by Zinnia Jones"
+                },
+                {
+                    "title": "How Do I Know If I'm Transfeminine?",
+                    "link": "https://www.them.us/story/how-do-i-know-if-im-transfeminine",
+                    "description": "Article By Samantha Riedel" 
+                },
+                {
+                    "title": "Dear Philosophers, You Can Trust the Feminist Consensus: Gender-Critical Radical Feminism is Bogus",
+                    "link": "https://majesticequality.wordpress.com/2019/07/25/dear-philosophers-you-can-trust-the-feminist-consensus-gender-critical-radical-feminism-is-bogus/",
+                    "description": "Article by a cis philosopher taking down TERF arguments"
+                },
+                {
+                    "title": "Super Late Bloomer: My Early Days in Transition by Julia Kaye",
+                    "link": "https://www.goodreads.com/en/book/show/36374395-super-late-bloomer",
+                    "description": "A highly personal collection documenting the early months of artist Julia Kaye’s gender transition. A great read, and has been pretty effective at helping friends and family understand what being trans entails"
+                },
+                {
+                    "title": "Yes, You Are Trans Enough: My Transition from Self-Loathing to Self-Love",
+                    "link": "https://www.goodreads.com/en/book/show/37942143-yes-you-are-trans-enough",
+                    "description": "A personal, touching Book by Mia Violet"
+                }
+            ]
+        }
+    ]
+}
